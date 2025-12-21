@@ -1,0 +1,13 @@
+{
+  "name": "basic-html",
+  "compatibility_date": "2025-12-21",
+  "assets": {
+    "directory": ".",
+    "exclude": [
+      "wrangler.jsonc",
+      ".git/**",
+      "node_modules/**",
+      "*.log"
+    ]
+  }
+}
