@@ -4,7 +4,7 @@
   "assets": {
     "directory": ".",
      "not_found_handling": "404-page"
-  }
+  },
     "exclude": [
       "wrangler.jsonc",
       ".git/**",
